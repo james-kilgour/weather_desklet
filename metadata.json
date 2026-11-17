@@ -1,0 +1,8 @@
+{
+    "uuid": "sunweather@james",
+    "name": "Sun & Weather",
+    "description": "Sunrise, sunset and 3-day forecast (Open-Meteo)",
+    "version": "1.0",
+    "max-instances": "1",
+    "prevent-decorations": true
+}

@@ -1,0 +1,12 @@
+{
+    "latitude": {
+        "type": "entry",
+        "default": "56.118",
+        "description": "Latitude"
+    },
+    "longitude": {
+        "type": "entry",
+        "default": "-3.980",
+        "description": "Longitude"
+    }
+}
